@@ -29,3 +29,8 @@ Visualization: matplotlib, seaborn, plotly
 **Dimensionality Reduction:** PCA for efficient feature reduction  
 **Model Training:** 5 different algorithms with hyperparameter optimization (*Logistic Regression, KNN, Random Forest, Naive Bayes, and Ensemble Model*)  
 **Ensemble Creation:** Weighted voting based on individual model performance  
+
+### Result  
+
+99.7% Accuracy is Leukemia Classification using Ensemble Model. The genes X95735_at, M55150_at, M27891_at, and M31166_at exhibit high feature importance, indicating their significant role in
+distinguishing between ALL and AML cancer types in the analysis.
